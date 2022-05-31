@@ -1,0 +1,6 @@
+#ifndef _CIMG_H_
+#define _CIMG_H_
+
+#include "src/CImg.h"
+
+#endif
